@@ -1,1 +1,4 @@
 win + R msinfo32
+
+
+--adding more soon--
